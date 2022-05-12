@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.UUID;
 
 @Service
-class EmployeeService {
+public class EmployeeService {
 
     private final EmployeeRepository employeeRepository;
 
